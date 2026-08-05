@@ -27,7 +27,6 @@ h2 {
   font-size: 30px;
 }
 
-
 #special (color: pink)
 #content (display: name)
 
@@ -67,6 +66,7 @@ summary {
   cursor: pointer;
 }
 
+/*Link color */
 a:link {
   color: yellow;
   background-color: transparent;
